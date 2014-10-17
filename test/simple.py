@@ -19,7 +19,7 @@
 #-
 #-  A very simple test that attempts to connect to a Seagate Kinetic IP drive
 #-  at a specified IP address and port and perform a simple key-value
-#   put and get. 
+#   put and get.
 #-
 #------------------------------------------------------------------------------
 
@@ -52,4 +52,3 @@ if __name__=="__main__":
             (options.key,options.value,value)
         exit(-1)
 
-        
